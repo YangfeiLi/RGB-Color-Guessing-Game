@@ -1,1 +1,0 @@
-Hi guys, welcome to the RGB GAME GUESSING GAME!
