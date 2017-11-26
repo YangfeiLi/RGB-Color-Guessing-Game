@@ -20,4 +20,4 @@
 	<li>You can play as many times as you want, scores will not be saved.</li>
 </ul>
 
-<h5>Hope you like it! Any suggestions would be greatly appreciated!</h5>
+<h4>Hope you like it! Any suggestions would be greatly appreciated!</h4>
