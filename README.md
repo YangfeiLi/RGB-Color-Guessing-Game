@@ -1,5 +1,5 @@
 
-<h1><a href="https://yangfeili.github.io/RGB-Color-Guessing-Game/"><strong>Color Guessing Game Base on RGB</strong>(Click me to start!)</a></h1>
+<h1><a href="https://yangfeili.github.io/RGB-Color-Guessing-Game/"><strong>Color Guessing Game Base on RGB</strong> (Click me to start!)</a></h1>
 <img src="RGBCGG.gif">
 <p>Color Guessing Game based on RGB is an interesting game that will help you improve your knowledge of RGB colors.</p>
 <p>Based on the exercise part of the Udemy course "The Web Developer Bootcamp" by Colt Steele.</p>
